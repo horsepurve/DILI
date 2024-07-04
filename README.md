@@ -42,7 +42,7 @@ Then you can interact with the LLM!
 
 For the complete pipeline, please see pipeline.py.
 
-**Reference **
+**Reference**
 
 **Contact**
 
