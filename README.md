@@ -28,7 +28,7 @@ Download our fine-tuned model files above, unzip, and you can see the following 
 > loss.txt \
 > README.md \
 > trainer_state.json \
-> train_results.json \
+> train_results.json 
 
 Load the weights and merge back simply by:
 ```python
@@ -44,6 +44,9 @@ model = model.merge_and_unload()
 Then you can interact with the LLM!
 
 For the complete pipeline, please see pipeline.py.
+
+**Evaluation and Ensemble**
+Please see evaluation_ensemble.py for details.
 
 **Contact**
 
