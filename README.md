@@ -21,8 +21,8 @@ model_name = "meta-llama/Llama-2-7b-chat-hf"
 model, tokenizer = load_model(model_name, bnb_config)
 ```
 Download our fine-tuned model files above, unzip, and you can see the following files:
-> adapter_config.json
-> adapter_model.bin
+> adapter_config.json \
+> adapter_model.bin \
 > all_results.json
 > log.txt
 > loss.txt
