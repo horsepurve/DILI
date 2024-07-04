@@ -1,6 +1,6 @@
 # DILI
 
-**Model files:**
+### Model files
 
 Fine-tuned LLaMA-2-7B: [Google Drive](https://drive.google.com/file/d/1EpdKxjMgzRwirlnYCRzHIPzvRtNL_1mF/view?usp=sharing)
 
@@ -13,7 +13,7 @@ Note that the out-of-the-box LLaMA-2 or PMC-LLaMA works poorly on the DILI data,
 |LLaMA-2-7B  |0.4989|0.9657|
 |PMC-LLaMA-7B|0.5069|0.9706|
 
-**Interact with the trained models:**
+### Interact with the trained models
 
 First download the LLaMA-2 or PMC-LLaMA from their official huggingface repositories:
 ```python
