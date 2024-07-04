@@ -45,7 +45,5 @@ Then you can interact with the LLM!
 
 For the complete pipeline, please see pipeline.py.
 
-**Reference**
-
 **Contact**
-
+Any questions please let [me](mailto:horsepurve@gmail.com) know.
