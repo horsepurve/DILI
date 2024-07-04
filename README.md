@@ -23,12 +23,12 @@ model, tokenizer = load_model(model_name, bnb_config)
 Download our fine-tuned model files above, unzip, and you can see the following files:
 > adapter_config.json \
 > adapter_model.bin \
-> all_results.json
-> log.txt
-> loss.txt
-> README.md
-> trainer_state.json
-> train_results.json
+> all_results.json \
+> log.txt \
+> loss.txt \
+> README.md \
+> trainer_state.json \
+> train_results.json \
 
 Load the weights and merge back simply by:
 ```python
