@@ -6,6 +6,8 @@ Fine-tuned LLaMA-2-7B: [Google Drive](https://drive.google.com/file/d/1EpdKxjMgz
 
 Fine-tuned PMC-LLaMA-7B: [Google Drive](https://drive.google.com/file/d/1OindsFxH83KTH7fNZwoXiK3wm_RP9qWH/view?usp=sharing)
 
+The files can also be accessed on [Huggingface](https://huggingface.co/FrankCMa/DILI_LLAMA).
+
 Note that the out-of-the-box LLaMA-2 or PMC-LLaMA works poorly on the DILI data. The table below displays the model accuracy before and after fine-tuning. Therefore, fine-tuning LLM on DILI training data is indispensable.
 
 |Models|Original|Fine-tuned|
